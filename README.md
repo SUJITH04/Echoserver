@@ -58,4 +58,4 @@ print(f"Received {data!r}")
 
 
 ## RESULT:
-The program is executed successfully
+The program is executed successfuly
